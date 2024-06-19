@@ -75,6 +75,7 @@ Overall, capacitors play a crucial role in amplifier circuits by enabling signal
 
 ![Unknown-1](https://github.com/aethernavshulkraven-allain/TemperatureControlledUnit/assets/112583472/5cf924f5-42c1-4ad2-bb68-ad6e0605ffa1)
 
+Our gain : _26.67 - 30 V/V_
 
 ## Understanding Miller Effect
 _source : Behzad Razavi YouTube Lectures_
