@@ -36,7 +36,7 @@ we chose BJT as,
 
 5. Ease of Implementation: BJTs are typically easier to implement in certain amplifier configurations, such as the cascode amplifier, due to their simpler biasing and operating characteristics.
 
-Overall, the choice between BJT and MOSFET for your project would depend on a careful consideration of these factors along with the specific requirements and constraints of your temperature-controlled unit.
+Overall, the choice between BJT and MOSFET for project would depended on a careful consideration of these factors along with the specific requirements and constraints of temperature-controlled unit.
 
 ## Amplification
 As per our problem statement, LM35 was to be used as our sensor, and due to its small output, we had to use an Amplifier. We were not allowed to use diode for amplification and had to be done via BJT or MOSFET.
@@ -56,7 +56,7 @@ while exploring various amplification models and circuits we found a Cascode Con
 
 6. Minimized Noise: Cascode amplifiers can help minimize noise, which is critical for accurate temperature sensing and control applications where even small fluctuations can affect the system's performance.
 
-Overall, the cascode configuration offers a robust solution for amplifying temperature-related signals in your unit, providing high gain, improved linearity, stability, and noise performance, making it a suitable choice for your project.
+Overall, the cascode configuration offers a robust solution for amplifying temperature-related signals in unit, providing high gain, improved linearity, stability, and noise performance, making it a suitable choice for project.
 
 ### Usage of capacitors
 Capacitors are commonly used in amplifiers for various reasons:
