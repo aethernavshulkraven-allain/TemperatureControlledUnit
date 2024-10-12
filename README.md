@@ -1,6 +1,6 @@
 # TemperatureControlledUnit
 Design a temperature controller device that will continuously sense two reference temperatures, and control working of the motor based on that. 
-
+link for Doppler Sensor :- https://github.com/aethernavshulkraven-allain/Ultrasonic-Doppler-Sensor-for-Motion-Detection
 
 # Statement:
 Design a temperature controller device that will continuously sense two reference temperatures, which are 30OC (Lower Limit: TL) and 35OC (Higher Limit: TH), such that if the temperature goes below TL, the unit will activate Motor 1, and hence if the temperature goes above TH, Motor 2 will be activated. If the temperature of the sensing element is maintained between the given TH and TL, both the Motors should be switched OFF. here an amplifier is introduced to magnify the change because of temperature variations. The amplifier shall operate in the linear region between the given temperature ranges.
